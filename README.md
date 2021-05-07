@@ -4,4 +4,6 @@ Reto emprendedor semana 1
 
 
 
-<li>Nubes populaes</li>
+<li>Nubes populares</li>
+
+![Tux, the Linux mascot](/assets/images/tux.png)
