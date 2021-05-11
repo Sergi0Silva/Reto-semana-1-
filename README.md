@@ -36,3 +36,65 @@ Por 9,99 €/mes obtendrás 2 TB (2.000 GB) de espacio, más controles de uso co
 
 Dropbox para empresas
 Por 10 €/usuario/mes tendrás 5 TB (5000GB) y por 15 €/usuario/mes todo el almacenamiento que necesites, recuperación ilimitada de archivos, controles de uso compartido de archivos y soporte prioritario.
+
+3. GOOGLE DRIVE
+Desde mayo de 2018 el almacenamiento de Google se llama Google One.
+
+Google One nos ofrece lo siguiente:
+15 GB                   Gratis (espacio a repartir entre Drive, Gmail y fotos de Google+)
+100 GB                  1,99 € al mes
+200 GB 2,99 € al mes
+2 TB                    9,99 € al mes
+10 TB                   99,99 € al mes
+20 TB                   199,99 € al mes
+30 TB                   299,99 € al mes
+
+Tiene como ventajas la integración con Google Docs y la descarga automática de los archivos adjuntos de tus emails en drive.
+
+4. BOX
+Esta herramienta nos ofrece lo siguiente:
+10 GB                  Gratis
+
+Starter
+Por 4,50 €/mes obtendrás 100 GB de espacio, 2 GB de tamaño máximo de archivo, opciones para móviles de sincronización y de uso compartido, cifrado de documentos y colaboración externa/enlaces compartidos.
+
+Business
+Por 13,50 €/usuario/mes tendrás almacenamiento ilimitado, integración con Microsoft Office 365, controles de seguridad, 5 GB de tamaño máximo de archivo.
+
+Business Plus
+Por 22,50 €/mes/usuario con almacenamiento ilimitado por usuario y hasta 3 integraciones de aplicaciones empresariales como Office 365.
+
+Enterprise
+Dor 31,50 €/mes/usuario con almacenamiento ilimitado por usuario e integraciones ilimitadas de aplicaciones empresariales como Office 365.
+
+Tiene como ventaja la buena cantidad de apps online de la que dispone y como inconveniente el tamaño límite de 2GB por archivo en su plan gratuito.
+
+5. MEGA
+Tras el cierre de Megaupload, Kim Dotcom volvió a la carga ofreciendo 50 Gbytes de almacenamiento gratuito, con cifrado en la subida de archivos para aumentar la seguridad, siendo el usuario el único responsable de compartir contenidos.
+Las opciones de pago de las que dispone son:
+LITE: 4,99€/mes
+400 GB de almacenamiento y 1 TB de transferencia
+
+PRO I: 9,99€/mes
+2 TB de almacenamiento y 2 TB de transferencia
+
+PRO II: 19,99€/mes
+8 TB de almacenamiento y 8 TB de transferencia
+
+PRO III: 29,99€/mes
+16 TB de almacenamiento y 16 TB de transferencia
+
+6. AMAZON CLOUD DRIVE
+Enfocado quizás a los usuarios de Kindle nos ofrece 5Gb de almacenamiento gratuito y planes de pago algo caros con respecto al resto de plataformas.
+100 GB              1,99 €/mes
+1 TB                9,99 €/mes
+Y luego una serie de planes que van desde 2 TB por 19,99€/mes a los 30 TB por 2999,70€/año (¡fijaros que este plan es precio por año!)
+
+7. ICLOUD DRIVE
+Si tú eres de Apple, ésta es tu plataforma. Funciona como cualquier carpeta del Mac. Es perfecta si tienes todos tus dispositivos sincronizados iphone enlazado con iPad y escuchando música con iTunes y todo al Mac.
+Si no tienes ningún producto de Apple también funciona pero mucho más limitado ya que no tienes ventajas como sincronización de contactos, calendario, recordatorios, notas, fotos, copias de seguridad, vídeos, etc…
+Con este sistema podrás acceder a la última versión de cada documento independientemente de si lo has creado en iPad o iPhone.
+Nos ofrece 5Gb de almacenamiento gratuito y los siguientes planes de pago.
+50 GB               0,99 € al mes
+200 GB             2,99 € al mes
+1 TB                9,99 € al mes
